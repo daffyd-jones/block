@@ -23,7 +23,7 @@ function buildGen() {
     ins += field;
     ins += input;
   }
-  let code = "do stuff!!!";
+  let code = document.getElementById("code_input").value;
   let name = document.getElementById("block_name").value;
   let outfunc = `Blockly.Javascript[${name}] = function(block) {${ins}\n${code}\nlet code = "";\nreturn code;\n}`;
   outGen = outfunc;
