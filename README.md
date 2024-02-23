@@ -10,7 +10,7 @@ Steps
 - finally enter the value for the variable
 - Click "Build" and the generated code will be printed to the console
 
-  
+![Example Image](/img/img.png "html gui")
 
 Developed for EXAMIND during a co-op. Im sure they have the rights to it.
 Dont get me in trouble pls.
